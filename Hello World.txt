@@ -8,6 +8,10 @@ nemespace MyProgram
 		{
 			Console.WriteLine("Hello World!!!");
 			Console.ReadKey();
+
+			Console.WriteLine("How are name?");
+			Console.ReadLine();
+
 		}
 	}
 }
