@@ -6,10 +6,12 @@ nemespace MyProgram
 	{
 		public void Main()
 		{
-			Console.WriteLine("Hello World!!!---");
+			Console.WriteLine("Hello World!!!::L---");
 			Console.ReadKey();
 
-			Console.WriteLine("How are name?---");
+			Console.WriteLine("How are name?::L---");
+			Console.Write("Cancel::L---");
+
 			Console.ReadLine();
 
 		}
