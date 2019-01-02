@@ -1,0 +1,4 @@
+fun goodbye()
+{
+println("Goodbye Kotlin")
+}
