@@ -5,7 +5,7 @@ Print()
 
 }
 
-fun Print(): String 
+fun Print()
 {
 
 println("My Cotlin App")
