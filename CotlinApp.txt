@@ -1,6 +1,13 @@
 fun main(args: Array<String>)
 {
 
-println("My Cotlin App");
+Print()
+
+}
+
+fun Print(): String 
+{
+
+println("My Cotlin App")
 
 }
